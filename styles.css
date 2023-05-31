@@ -1,0 +1,306 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    background-color: #F5F7FA;
+}
+h5 {
+    font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 17px;
+               color: #000000;
+}
+
+/* project-title styles */
+.project-title {
+    font-size: 45px;
+    color: blue;
+}
+.titles {
+    color: #000000;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 20px;
+        line-height: 22px;
+        margin-bottom: 10px;
+      
+}
+.projects-list {
+    padding: 0;
+    margin-left: 15px;
+}
+.projects-item {
+    color: #000000;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 14px;
+        line-height: 24px;
+        
+}
+.spann, .project-link {
+color: #595959;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+}
+.project-link {
+    margin-left: 10px;
+}
+.project-bracket {
+    color: #000000;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 24px;
+}
+
+/* about styles */
+.about {
+   margin-bottom: 40px;
+}
+
+.about-position {
+color: #000000;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 17px;
+    margin-bottom: 20px;
+}
+.about-name {
+color: #000000;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    line-height: 55px;
+
+}
+
+.about-description {
+color: #0c0c0c;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    width: 750px;
+}
+.gamedev {
+    display: none;
+}
+/* projects styles */
+.projects {
+    display: none;
+        margin-bottom: 50px;
+}
+
+
+/* work styles */
+.work {
+    background: ;
+    padding-top: ;
+    padding-bottom: ;
+    padding-left:  ;
+    padding-right: 0px ;
+}
+.work-position-three {
+    color: #FB6d3a;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 16px;
+        line-height: 20px;
+        margin-bottom: px;
+        padding-left: 0px
+}
+.skriv {
+    color:#FB6D3A;
+}
+.work-position-one {
+    color: #000000;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    margin-left: -40px;
+  
+}
+.resp {
+    color:#000000;
+}
+.work-position-two{
+    color: #000000;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    margin-left: -40px;
+ 
+}
+
+.organization {
+    color: #000000;
+             font-weight: bold;
+        font-size: 16px;
+        line-height: 20px;
+}
+.organization-2 {
+    color: #000000;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+}
+.period {
+    color: #0c0b0b;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 15px;
+        margin-bottom: 10px;
+}
+}
+.work-list {
+     padding: 0;
+     margin-left: 0px;
+}
+.work-list-item {
+    color: #0b0a0a;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 24px;
+}
+/* education styles */
+.education {
+    background-color: ;
+}
+.university {
+    font-style: normal;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 20px;   
+        color: #FB6D3A;
+}
+.education-title {
+    font-style: normal;
+        font-weight: 700;
+        font-size: 22px;
+        line-height: 27px;
+              color: #000000;
+}
+/* main styles */
+.main {
+    display: flex;
+    flex-direction: row-reverse;
+    
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.main-content {
+    background-color: rgb(207, 224, 240);
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+    padding: 50px;
+}
+
+/* sidebar styles */
+.sidebar {
+    background-color: rgb(151, 174, 235);
+    padding-top: 40px;
+    width:400px;
+    padding-right: 0px;
+}
+
+.photo {
+    width: 290px;
+        margin-bottom: 0px;
+}
+
+.sidebar-title {
+    color: #050404;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    margin-bottom: 10px;
+}
+
+.contacts,
+.tech-skills,
+.soft-skills {
+    margin-left: 30px;
+
+}
+
+.contact-type {
+    color: #0b0707;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    margin-right: 5px;
+}
+.ksendzov {
+    color: #FB6D3A;
+}
+.contact-type-mail 
+{
+        color: #0f0909;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 14px;
+        line-height: 24px;
+        margin-right: 5px;
+    }
+
+.contact-link {
+    color: #030507;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.contacts {
+    margin-bottom: 50px;
+}
+
+.tech-skills-list {
+    color: rgb(13, 11, 11);
+    padding: 0;
+    margin-left: 15px;
+}
+
+.tech-skills-item {
+    color: #0d0b0a;
+}
+
+.tech-skills-text {
+    color: rgb(3, 2, 2);
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+/* soft skills */
+.soft-skills-list {
+    color: rgb(11, 10, 10);
+    padding: 0;
+    margin-left: 15px;
+}
+
+.soft-skills-text {
+    color: rgb(14, 9, 9);
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.soft-skills-item {
+    color: #050404;
+}
+
+.soft-skills {
+    margin-left: -5px;
+}
